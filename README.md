@@ -1,5 +1,6 @@
 # using-git-on-tor
 
+## Guide
 - Download https://github.com/shunf4/proxychains-windows
 - Add environment variable PROXYCHAINS_CONF_FILE -> your proxychains bin\proxychains.conf
 - Edit proxychains.conf and find [ProxyList] then change to socks5 127.0.0.1 9150
