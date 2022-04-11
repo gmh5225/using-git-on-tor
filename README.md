@@ -1,4 +1,4 @@
-# TorNote
+# using-git-on-tor
 
 - Download https://github.com/shunf4/proxychains-windows
 - Add environment variable PROXYCHAINS_CONF_FILE -> your proxychains bin\proxychains.conf
